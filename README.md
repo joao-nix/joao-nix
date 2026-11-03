@@ -47,7 +47,7 @@ Atualmente, estou focado em fortalecer minha base em programação, desenvolver 
 
 <p align="center">
   <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=joao-nix&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA" />
+    src="https://github-stats-extended.vercel.app/api?username=joao-nix&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&cache_seconds=30" />
 
   <img height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=joao-nix&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&cache_seconds=30" />
